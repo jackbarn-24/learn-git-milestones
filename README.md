@@ -270,7 +270,7 @@ Item # | Description | Completed
 2c | Full path to your working directory | /Users/jackbarnett/Desktop/Game Development/learn-git-milestones
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/jackbarn-24/learn-git-milestones/commit/903e48a4c13a28a2d7d02e8bf80ff70e65c61290)
 2e | 3rd Favorite emoji | 🦥
-2f | Link to `commit #4 from Atom` |
+2f | Link to `commit #4 from Atom` | [commit #4 from Atom](https://github.com/jackbarn-24/learn-git-milestones/commit/d55941007dde1038c42b37be42fee03359c1fe92)
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
 ... | ... | Total: 0/12

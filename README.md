@@ -264,7 +264,7 @@ Item # | Description | Completed
 1a | 1st Favorite emoji | 🦖
 1b | Link to 'commit #1 from Github.com' | [commit #1 from Github.com](https://github.com/jackbarn-24/learn-git-milestones/commit/4a6374c1d3fc92ab9e89d03b5872090f7474ed7c#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5)
 1c | Link to markdown tables docs | [How to make a table in markdown](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-1d | What does `log` do? |
+1d | What does `log` do? | Show commit logs
 2a | 2nd Favorite emoji |
 2b | Link to `commit #2 from Github Desktop` |
 2c | Full path to your working directory |

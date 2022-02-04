@@ -272,7 +272,7 @@ Item # | Description | Completed
 2e | 3rd Favorite emoji | 🦥
 2f | Link to `commit #4 from Atom` | [commit #4 from Atom](https://github.com/jackbarn-24/learn-git-milestones/commit/d55941007dde1038c42b37be42fee03359c1fe92)
 3a | Link to `my-awesome-project` github.com repo page | [my-awesome-project](https://github.com/jackbarn-24/my-awesome-project)
-4a | Link to `my-awesome-project` github.io "project site" |
+4a | Link to `my-awesome-project` github.io "project site" | [project site](https://jackbarn-24.github.io/my-awesome-project/)
 ... | ... | Total: 0/12
 
 
